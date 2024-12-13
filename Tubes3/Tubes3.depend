@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1734107409 source:e:\kuliahh bro\strukur data\tubes3\child.cpp
+	"child.h"
+
+1734107411 e:\kuliahh bro\strukur data\tubes3\child.h
+	<iostream>
+
+1734107768 source:e:\kuliahh bro\strukur data\tubes3\main.cpp
+	"relasi.h"
+
+1734107472 e:\kuliahh bro\strukur data\tubes3\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1734107429 e:\kuliahh bro\strukur data\tubes3\parent.h
+	<iostream>
+
+1734107450 source:e:\kuliahh bro\strukur data\tubes3\parent.cpp
+	"parent.h"
+
+1734107492 source:e:\kuliahh bro\strukur data\tubes3\relasi.cpp
+	"relasi.h"
+
